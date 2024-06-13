@@ -10,3 +10,5 @@ ESP-32 CAM module
 Ultrasonic sensor
 PIR Sensor
 DC motor driver and DC motor
+
+Here we have gone with CNN for image classification, We are using ResNet50 pretrained model for the user interface a simple interface was built using kivy(python).
