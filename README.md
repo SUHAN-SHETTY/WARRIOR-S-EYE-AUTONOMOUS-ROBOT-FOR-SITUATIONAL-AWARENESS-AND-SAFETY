@@ -1,2 +1,5 @@
 # WARRIOR-S-EYE-AUTONOMOUS-ROBOT-FOR-SITUATIONAL-AWARENESS-AND-SAFETY
-Arduino code for the robot and also deeplearning model training and classifier code 
+In an ever-changing landscape of security threats, our project focuses on an innovative solution: an Autonomous War Field Surveillance Robot with Threat Detection. This intelligent robot combines state-of-the-art technology from various domains, such as robotics, computer vision, and IoT, to improve battlefield awareness and safety.
+Our mission is to provide military forces with a reliable and adaptable ally that can navigate treacherous terrains and gather vital information. Equipped with an array of sensors, including cameras, microphones, GPS module and Magnetometer, this robot processes data in real-time. It identifies suspicious activities, recognizes weapons, and instantly alerts the operators to critical events, such as explosions and gunfire.
+By fostering collaboration across diverse fields, we aim to bolster the security of military operations while upholding ethical considerations. This project represents a commitment to innovation, safety, and responsible use, reinforcing the protection of our military personnel and the understanding of dynamic battlefield conditions.
+
